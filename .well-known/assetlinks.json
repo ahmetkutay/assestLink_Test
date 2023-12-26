@@ -1,5 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.example.simplepomodor",
-               "sha256_cert_fingerprints": [" D3:77:E9:9C:86:72:3B:61:FE:AF:A0:13:60:8F:F6:9E:41:CA:63:EB:1D:2D:71:57:85:CD:6E:14:CE:FB:0B:E6"] }
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.simplepomodor",
+    "sha256_cert_fingerprints":
+    ["D3:77:E9:9C:86:72:3B:61:FE:AF:A0:13:60:8F:F6:9E:41:CA:63:EB:1D:2D:71:57:85:CD:6E:14:CE:FB:0B:E6"]
+  }
 }]
