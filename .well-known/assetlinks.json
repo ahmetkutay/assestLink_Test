@@ -1,26 +1,5 @@
 [{
- "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.simplepomodor",
-    "sha256_cert_fingerprints":
-    ["17:AD:56:C3:10:DF:22:6F:17:5E:7C:E4:83:68:B8:E7:1D:98:B4:AA:21:06:2E:A9:B3:62:D2:D6:21:8B:98:FE"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://assest-link-test.vercel.app/"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.simplepomodor",
-    "sha256_cert_fingerprints":
-    ["17:AD:56:C3:10:DF:22:6F:17:5E:7C:E4:83:68:B8:E7:1D:98:B4:AA:21:06:2E:A9:B3:62:D2:D6:21:8B:98:FE"]
-  }
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.example.simplepomodor",
+               "sha256_cert_fingerprints": [" D3:77:E9:9C:86:72:3B:61:FE:AF:A0:13:60:8F:F6:9E:41:CA:63:EB:1D:2D:71:57:85:CD:6E:14:CE:FB:0B:E6"] }
 }]
-
