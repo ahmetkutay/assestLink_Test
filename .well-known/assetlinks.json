@@ -2,8 +2,9 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.simplepomodor",
-    "sha256_cert_fingerprints":
-    ["D3:77:E9:9C:86:72:3B:61:FE:AF:A0:13:60:8F:F6:9E:41:CA:63:EB:1D:2D:71:57:85:CD:6E:14:CE:FB:0B:E6"]
+    "package_name": "com.borusancat.rocat",
+    "sha256_cert_fingerprints": [
+      "A4:07:31:93:0F:24:EB:06:1F:68:4D:45:D2:00:77:7D:B3:22:80:B0:44:3D:E1:9F:E0:8D:C8:1A:53:BC:B1:90"
+    ]
   }
 }]
